@@ -23,7 +23,7 @@ Support the developer: https://www.patreon.com/DragonFire47
 - Customization of XP Gain via command
 - Customizations is saved.
 
-## Commands: (All commands and subcommands can be shortened to their capital letters.)  
+### Commands: (All commands and subcommands can be shortened to their capital letters.)  
 /CypherXPGain - Controls subcommands.
 
 ### Subcommands:
