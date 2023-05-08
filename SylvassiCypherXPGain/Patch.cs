@@ -14,7 +14,7 @@ namespace SylvassiCypherXPGain
             int TurnsLeft = 1 + (((int)AccessTools.Method(typeof(PLSylvassiCypher), "GetTurnsLeft").Invoke(instance, new object[0]) - (int)AccessTools.Method(typeof(PLSylvassiCypher), "GetTotalTurnsLeftFromOffsets").Invoke(instance, new object[0])) / 2);
             int XPGain = (int)(TurnsLeft * Mod.Multiplier);
             Messaging.Notification($"You have been granted {XPGain} XP for completing this cypher with {TurnsLeft} attempts remaining.", PhotonTargets.All, default, default, true);
-            PLServer.Instance.CurrentCrewXP += TurnsLeft;
+            PLServer.Instance.CurrentCrewXP += XPGain;
         }
 
 
