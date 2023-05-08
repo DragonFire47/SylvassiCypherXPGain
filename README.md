@@ -1,4 +1,4 @@
-# SylvassiCypherXPGain
+# Sylvassi Cypher XP Gain
 
 ![Screenshot 2023-05-08 001841](https://user-images.githubusercontent.com/46509577/236760471-5e3e9cc3-c76a-4db0-b7de-44827e7237eb.png)
 
