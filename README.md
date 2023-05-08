@@ -6,7 +6,7 @@
 ## Information
 For Game Version 1.2.03  
 For PML Version 0.11.1  
-Mod Version 1.0.0  
+Mod Version 1.0.1  
 Developed by: Dragon  
 Host/Client Requirements: Host
 
